@@ -3,8 +3,6 @@ import base64
 
 secret_word = "Y293YWJ1bmdh"
 
-print(base64.b64decode(secret_word))
-
 asdwe = "YU"
 print("I want to hack the world!")
 ncvnigir = "n3v3r_g3ts"
